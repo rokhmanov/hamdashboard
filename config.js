@@ -76,6 +76,13 @@ var aURL = [
     "https://aprs-map.info/?center=41.7037,-88.0865&zoom=10",
     "1",
     "R"
+  ],
+  [
+    "2196F3",
+    "MESHSENSE",
+    "https://meshsense.affirmatech.com/",
+    "1",
+    "R"
   ]
 ];
 
